@@ -10,4 +10,8 @@ answer2 = input ("what is your favorite pet")
 if answer2 == "cat" : 
     print ("what is your favorite class?")
     if answer2 == "music production" 
-    
+    print ("good answer")
+answer3 = input("what class do you have next")
+print ("PE")
+print("thats cool")
+input ("whats your favorite color")
