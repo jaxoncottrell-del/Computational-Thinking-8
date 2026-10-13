@@ -40,11 +40,14 @@ elif answer1 ==  "C":
     salty +=1
      # end of quiz 
 if sweet  > sour  and sweet > salty:
+            #you get this ending by doing sweet the most 
             print ("you loves sweet things")
 elif sour > sweet and sour > salty:
+            #you get this ending by doing  sour the most 
             print (" you are a sour person!")
 elif salty  > sour  and salty > sweet:
-            print ("I also love salty things")
+           #you get this ending by doing salty the most 
+          print ("I also love salty things")
 
 
 
