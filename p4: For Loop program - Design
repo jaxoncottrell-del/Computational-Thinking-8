@@ -28,7 +28,7 @@ for i in range (4):
        club = input ("correct the club is liverpool")
     else:
        club = input ("incorrect the club is liverpool")
-    print ("thanks for playing!")
+    print ("thanks for playing!!")
     
     
 
