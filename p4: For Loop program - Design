@@ -3,27 +3,31 @@ for i in range (4):
     print ("Guess the soccer club!")
     answer1 = input (" guess the country")
     if answer1 == "england":
+        country = input (" correct, the country is england")
+    else:
         country = input ("incorrect, the country is england")
-    country = input ("correct, the country is england")
     color = "red"
     print ("2, guess the color")
     answer2 = input ("guess the color")
-    answer2 == "red" 
+    answer2 == "red"  
     if answer2 == "red":
-     color = input ("incorrect the color is red")
-    color = input ("correct, the color is red")
+     color = input ("correct the color is red")
+    else:
+     color = input ("incorrect, the color is red")
     mascot = "liverbird" 
     answer3 = input ("guess the mascot")
     answer3 == "liverbird"
     if answer3 == "liverbird":
-       mascot = input ("incorrect the mascot is a liverbird")
-       mascot = input ("correct, the mascot it a liverbird")
+       mascot = input ("correct the mascot is a liverbird")
+    else: 
+       mascot = input ("incorrect, the mascot it a liverbird")
        club = "liverpool"
-       answer4 = input ("guess the club")
-    answer4 == "liverpool"
-    if answer4 == "liverpool":
-       club = input ("incorrect the club is liverpool")
+       answer5 = input ("guess the club")
+    answer5 == "liverpool"
+    if answer5 == "liverpool":
        club = input ("correct the club is liverpool")
+    else:
+       club = input ("incorrect the club is liverpool")
       #("thanks for playing!")
     
     
