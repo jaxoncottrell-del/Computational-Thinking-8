@@ -22,13 +22,13 @@ for i in range (4):
     else: 
        mascot = input ("incorrect, the mascot it a liverbird")
        club = "liverpool"
-       answer5 = input ("guess the club")
-    answer5 == "liverpool"
-    if answer5 == "liverpool":
+    answer4 = input ("guess the club")
+    answer4 == "liverpool"
+    if answer4 == "liverpool":
        club = input ("correct the club is liverpool")
     else:
        club = input ("incorrect the club is liverpool")
-      #("thanks for playing!")
+    print ("thanks for playing!")
     
     
 
